@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ZXing C++ Port
 
 This is a manual port of ZXing to C++. It has been tested on Linux, Mac OS X and Windows.
@@ -65,3 +66,9 @@ To run the black box tests and check for changes:
   1. Build `zxing-img`, e.g., scons zxing
   2. Run the tests: `bash blackboxtest.sh 2>&1 | tee bb.results`
   3. Diff them with the known results: `diff bb.results blackboxtest.results`
+=======
+zxing-cplusplus
+===============
+
+zxing c++ clone with support of PureBar hint
+>>>>>>> a8337b603cac9dab39de2d7e2fd9cfb2c144af80
